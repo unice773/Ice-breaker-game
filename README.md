@@ -1,10 +1,10 @@
-Ice Breaker: A Python-Based Stress-Relief Game
+# Ice Breaker: A Python-Based Stress-Relief Game
 
-Project Overview
+## Project Overview
 
 Ice Breaker is a Python-based game designed to provide a fun and relaxing break from everyday stress. Players tap a large piece of realistic ice to create visible cracks and eventually shatter it.
 
-Objectives
+## Objectives
 
 * Create an enjoyable and relaxing gaming experience.
 * Simulate realistic ice-cracking effects.
@@ -12,7 +12,7 @@ Objectives
 * Implement a 60-second countdown timer.
 * Display the final score when the game ends.
 
-Planned Features
+## Planned Features
 
 * One large, irregular ice chunk.
 * Visible cracks that spread with each hit.
@@ -21,15 +21,15 @@ Planned Features
 * A 60-second challenge mode.
 * A final-score screen.
 
-Technologies
+## Technologies
 
 * Python
 * Pygame
 
-Project Status
+## Project Status
 
 Currently in the planning stage. Game development and testing will follow.
 
-License
+## License
 
 MIT License (to be added).
